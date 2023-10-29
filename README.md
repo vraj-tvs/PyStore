@@ -1,11 +1,10 @@
 # PyStore
-Contains a bunch of executable files for python projects.  **NOTE**: All projects are beginner friendly.
-
+Contains a bunch of executable files for python projects. 
 The executables can be downloaded from the **dist** folder.
+**NOTE**: All projects are beginner friendly.
 
 # How to start 
 Extract the required folder(**dist** for **.exe** files). Go to that specific directory and just type *./file_name*.
-
 Source code for each project can be found in its respective **.py** file.
 
 # Description
