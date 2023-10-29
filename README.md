@@ -1,6 +1,6 @@
 # PyStore
 Contains a bunch of executable files for python projects. 
-The executables can be downloaded from the **dist** folder.
+The executables can be downloaded from the **dist** folder.    
 **NOTE**: All projects are beginner friendly.
 
 # How to start 
